@@ -1,1 +1,1 @@
-# Kalindi-Infinite-runner
+# Infinite-Runner-Game-1
